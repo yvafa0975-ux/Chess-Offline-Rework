@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Chess Offline — Pygame UI + FastAPI LAN server.
 Install: python -m pip install pygame python-chess fastapi uvicorn requests
 Run:     python ChessPygame_FastAPI.py
